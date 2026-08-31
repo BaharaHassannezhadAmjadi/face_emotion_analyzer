@@ -2,7 +2,7 @@
 
 A Python-based facial emotion recognition application that detects faces in images and analyzes their emotions using DeepFace and TensorFlow.
 
-The application can detect multiple faces, identify the dominant emotion of each face, display the results directly on the image, and save the analysis results in JSON format.
+The application can detect and analyze multiple faces, identify the dominant emotion of each face, display the results directly on the image, and save the analysis results in JSON format.
 
 ## ✨ Features
 
