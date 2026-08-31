@@ -16,7 +16,7 @@ The application can detect multiple faces, identify the dominant emotion of each
 - 💾 Save analysis results as JSON
 - 📁 Automatically save processed images
 - 🧩 Modular project structure
-- 🧪 Component-level testing
+- 🧪 Component-level testing for core modules
 
 ## 🖼️ Sample Output
 
